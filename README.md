@@ -86,6 +86,6 @@ ts-node menu.ts
 
 ### 💬 Sobre mim
 - 👩‍💻 Tayene Ramires 
-- 🎓 Graduanda em Sistemas de Informação (FIT) e formada em Ciências Contábeis
+- 🎓 Graduanda em Sistemas de Informação (FIT)
 - 📍 Estudante da Generation Brasil — Full Stack JavaScript
 - 💡 Em transição da área financeira para a tecnologia, apaixonada por lógica, dados e desenvolvimento de software.
